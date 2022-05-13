@@ -1,0 +1,2 @@
+import shutil
+shutil.make_archive("name of the output zipped folder", "zip", "source")
